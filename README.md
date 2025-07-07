@@ -70,7 +70,7 @@ Before you begin, make sure you have the following installed:
 
 ## Cleaning Up
 
-To stop and remove the Docker containers, press `Ctrl+C` in the terminal where the containers are running, or use the following command:
+To stop and remove the Docker containers,  press `Ctrl+C` in the terminal where the containers are running, or use the following command:
 
 ```bash
 docker-compose down
